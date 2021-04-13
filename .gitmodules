@@ -1,3 +1,4 @@
 [submodule "submodule_for_test"]
 	path = submodule_for_test
 	url = git@github.com:Moses2323/submodule_for_test.git
+	shallow = true
